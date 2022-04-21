@@ -2,7 +2,3 @@
 Game of Life (view Wiki)
 Учебная игра "Жизнь" 
 Используется для отработки навыков flask, html, css
-help!
-help!
-HELP!
-HELP!!!
